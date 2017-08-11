@@ -1,0 +1,18 @@
+.noPadding {
+    padding: 0 0 0 0;
+}
+#tab {
+    padding: 40px 0;
+}
+
+#preFooter {
+    margin-bottom: 0;
+}
+
+.rewards {
+    margin-right: 100px;
+}
+
+.reminders {
+    background: white;
+}
