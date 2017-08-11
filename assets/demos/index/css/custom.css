@@ -16,3 +16,17 @@
 .reminders {
     background: white;
 }
+
+@media all and (max-width: 767px) {
+    .c-content-tab-2 > .nav > li + li {
+      margin-left: 0px;
+    }
+    .flexBox {
+        display: -webkit-flex;
+        display: flex;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
